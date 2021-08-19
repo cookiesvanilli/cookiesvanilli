@@ -6,6 +6,7 @@
 - ✨Css
 - ✨Scss
 - ✨Javascript
+- ✨Node.js
 - ✨React
 - 📫 How to reach me: @ikuklina by Telegram.
 
