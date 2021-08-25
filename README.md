@@ -1,5 +1,5 @@
 - ### 👋 Hi, I’m Inna
-- I'm a 27 year-old front-end Web Developer from Russia, Dubna. 
+- I'm front-end Web Developer from Russia, Dubna. 
 - 👀 I’m interested in Golang, also JavaScript.
  - Languages / Frameworks:
 - ✨Html
