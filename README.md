@@ -3,8 +3,7 @@
 - 👀 I’m interested in Golang, also JavaScript.
  - Languages / Frameworks:
 - ✨Html
-- ✨Css
-- ✨Scss
+- ✨Css, Scss
 - ✨Javascript
 - ✨Node.js
 - ✨React
