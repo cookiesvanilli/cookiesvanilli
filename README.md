@@ -1,5 +1,5 @@
 - ### 👋 Hi, I’m Inna
-- I'm front-end Web Developer from Russia, Dubna. 
+- I'm frontend Web Developer from Russia, Dubna. 
 - 👀 I’m interested in Golang, also JavaScript.
  - Languages / Frameworks:
 - ✨Html
