@@ -5,8 +5,10 @@
 - ✨Html
 - ✨Css, Scss
 - ✨Javascript
-- ✨Node.js
 - ✨React
+- ✨Node.js
+- ✨Golang
+
 - 📫 How to reach me: @ikuklina by Telegram.
 
 <!--
