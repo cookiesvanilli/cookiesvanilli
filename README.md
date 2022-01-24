@@ -8,6 +8,7 @@
 - ✨React
 - ✨Node.js
 - ✨Golang
+- ✨Java
 
 - 📫 How to reach me: @ikuklina by <a href="https://t.me/ikuklina"  target="blank">Telegram</a> 
 
