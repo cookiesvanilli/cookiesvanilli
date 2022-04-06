@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Inna
 - I'm Web Developer from Russia, Dubna. 
-- 👀 I’m interested in Golang, also JavaScript.
+- 👀 I’m interested in Golang, also Java.
  - Languages / Frameworks:
 - ✨Html
 - ✨Css, Scss
