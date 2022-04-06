@@ -1,11 +1,11 @@
 - ### 👋 Hi, I’m Inna
-- I'm Web Developer from Russia, Dubna. 
+- I'm Backend Developer from Russia, Dubna. 
 - 👀 I’m interested in Golang, also Java.
  - Languages / Frameworks:
 - ✨Html
 - ✨Css, Scss
 - ✨Javascript
-- ✨React
+- ✨ReactJS
 - ✨Node.js
 - ✨Golang
 - ✨Java
