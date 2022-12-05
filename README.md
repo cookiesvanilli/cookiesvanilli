@@ -6,6 +6,7 @@
 - ✨Java
 
 - 📫 How to reach me: @ikuklina by <a href="https://t.me/ikuklina"  target="blank">Telegram</a> 
+- [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1195F5)](https://t.me/ikuklina)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiesvanilli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
