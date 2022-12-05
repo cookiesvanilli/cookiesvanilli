@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: @ikuklina by <a href="https://t.me/ikuklina"  target="blank">Telegram</a> 
 
-(https://github-readme-stats.vercel.app/api?username=cookiesvanilli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiesvanilli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
