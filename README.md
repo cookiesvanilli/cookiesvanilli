@@ -1,9 +1,9 @@
 - ### 👋 Hi, I’m Inna
 - I'm Backend Developer from Russia, Dubna. 
-- 👀 I’m interested in Golang, also Java.
+- 👀 I’m interested in Java.
  - Languages / Frameworks:
-- ✨Golang
 - ✨Java
+- ✨Spring Framework, Spring Boot
 
 📫 How to reach me: @ikuklina by [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1195F5)](https://t.me/ikuklina)
 
